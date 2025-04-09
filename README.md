@@ -7,7 +7,7 @@ Welcome to the shared repository for our class’s LeetCode problem solutions! T
 
 1. **Fork** the repo
 2. **Clone** your fork:  
-   `git clone https://github.com/YOUR-USERNAME/leetcode-class-solutions.git`
+   git clone https://github.com/AliCS-dev/leetcode-class-solutions.git
 3. **Create a new folder** for your problem (if it doesn't exist)
 4. **Add your solution** in the appropriate format
 5. **Push changes** and open a **Pull Request**
