@@ -13,7 +13,28 @@ Welcome to the shared repository for our class’s LeetCode problem solutions! T
 5. **Push changes** and open a **Pull Request**
 
 Please write clear, readable code and include comments when necessary.
+## 🧵 Common Git Commands
 
+- Check current status  
+  `git status`
+
+- Create a new branch  
+  `git branch your-branch-name`
+
+- Change the branch
+  `git switch branch-name`
+
+- Add files to staging  
+  `git add .`
+
+- Commit changes  
+  `git commit -m "Your message"`
+
+- Push branch to GitHub  
+  `git push origin your-branch-name`
+
+- Pull latest changes from main  
+  `git pull origin main`
 ---
 
 ## ✅ Naming Conventions
@@ -30,7 +51,6 @@ Use any programming language you'd like! Just make sure to indicate it clearly.
 
 We recommend using:
 - Python
-- JavaScript
 - Java
 - C++
 
