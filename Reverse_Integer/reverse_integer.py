@@ -9,7 +9,11 @@ def reverse(x):
         is_neg = True
         x = -x
 
-    while x != 0:
+
+
+
+
+    while       x != 0:
         rev_num = (rev_num * 10) + (x % 10) 
         x = x // 10
 

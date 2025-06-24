@@ -3,6 +3,7 @@
 Welcome to the shared repository for our class’s LeetCode problem solutions! This repo is meant to be a collaborative space where everyone can contribute, learn from each other, and track progress as we prepare to improve our problem-solving skills.
 
 ---
+
 ## 🧠 How to Contribute
 
 1. **Fork** the repo
@@ -13,6 +14,7 @@ Welcome to the shared repository for our class’s LeetCode problem solutions! T
 5. **Push changes** and open a **Pull Request**
 
 Please write clear, readable code and include comments when necessary.
+
 ## 🧵 Common Git Commands
 
 - Check current status  
@@ -35,6 +37,7 @@ Please write clear, readable code and include comments when necessary.
 
 - Pull latest changes from main  
   `git pull origin main`
+
 ---
 
 ## ✅ Naming Conventions
@@ -50,6 +53,7 @@ Please write clear, readable code and include comments when necessary.
 Use any programming language you'd like! Just make sure to indicate it clearly.
 
 We recommend using:
+
 - Python
 - Java
 - C++
@@ -73,4 +77,4 @@ We recommend using:
 
 ---
 
-Happy coding! 🧠💻  
+Happy coding! 🧠💻

@@ -16,4 +16,3 @@ The program includes a function `isPalindrome(int x)` which checks if a number i
 ### Example:
 
 For `x = 101`, the program will output:
-"Is a Palindrome"
